@@ -1,8 +1,6 @@
-<h2 align="left">Hi 👋! My name is Cankat. I'm a Back-End developer and I also work in the fields of Artificial Intelligence and Data Science</h2>
+<h2 align="left">Hi 👋! My name is Cankat. I'm a Back-End developer and I also work in the fields of Game development and Artificial Intelligence</h2>
 
 ###
-
-<p align="left">a Back-End developer by day, currently working in the aviation industry's loyalty department. I’m fluent in Java, Spring Boot and all things Back-End. You can often find me coding my way through some simple projects to test out new features that i am learning.<br><br>When I'm not busy optimizing databases and stuff, I'm diving into Artificial Intelligence and Data Science. It's an exciting journey where I get to play with algorithms and make sense of data in cool, machine-learnt ways. Let’s say I’m on a mission to make Back-End smart (and maybe a little charming, too 🤔).</p>
 
 ###
 
