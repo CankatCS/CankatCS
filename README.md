@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Cankat. I'm a Back-End developer and I also work in the fields of Game development and Artificial Intelligence</h2>
+<h2 align="left">Hi 👋! I am Cankat. I'm a Back-End developer and I also work in the fields of Game development and Artificial Intelligence</h2>
 
 ###
 
