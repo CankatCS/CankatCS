@@ -12,7 +12,7 @@
 💻 I’m a **Software Engineer at Amadeus** (Istanbul R&D) working on global airline loyalty systems.  
 🎮 In my free time, I dive deep into **Unity game development** — from Multiplayer prototypes with **Netcode** and 2D roguelikes.  
 🚀 Passionate about **backend systems**, **Game development** and building tools that makes lives easier.  
-💡 I dream of starting my own **tech startup** one day.
+
 
 ---
 
