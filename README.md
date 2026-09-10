@@ -16,25 +16,28 @@
 
 ---
 
-### ⚙️ Tech Stack  
-**Languages & Frameworks:**  
+### ⚙️ Tech Stack
+
+**Languages & Backend**
 `Java` • `Spring Boot` • `Python` • `C#` • `PL/SQL`
 
-**Tools & Technologies:**  
-`Docker` • `Kubernetes` • `Redis` • `Oracle DB` • `PostgreSQL`
+**Databases & Infrastructure**
+`Oracle Database` • `PostgreSQL` • `Docker` • `Kubernetes` • `Redis`
 
-**Game Dev Side:**  
-`Unity` • `Netcode` • `Cinemachine` • `URP` • `Scriptable Objects`
+**Game Development**
+`Unity` • `C#` • `Photon Fusion` • `Multiplayer Networking` • `Physics-Based Gameplay`
 
-**Other Interests:**  
-`AI & ML` • `Data Science` • `Cybersecurity` • `Micro-SaaS` • `System Architecture`
+**Engineering**
+`Git` • `GitHub` • `REST APIs` • `Distributed Systems` • `System Design` • `Performance Optimization`
+
+**Areas of Interest**
+`Multiplayer Games` • `Co-op Game Design` • `Gameplay Systems` • `Networked Physics` • `Game Architecture`
 
 ---
 
 ### 🎯 Current Focus  
 - 🌍 Building **multiplayer-ready Unity prototypes** (using Netcode)  
-- ⚡ Developing internal automation tools in **Python** for large-scale data operations  
-- 🧩 Improving **AI + backend integration** for smarter, scalable systems  
+- ⚡ Developing internal automation tools in **Python** for large-scale data operations 
 - 💬 Writing technical content & sharing insights on my **journey as a developer**
 
 ---
